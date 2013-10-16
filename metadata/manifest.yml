@@ -107,3 +107,13 @@ Version-Overrides:
     - python
     - web_framework
     - community
+    Install-Build-Required: false
+    #Source-Url: file:///root/cperlv2cart//root/test/cperlv2cart
+    ###Source-Url: file:///root/wxjpython/
+    ###Source-Md5: d916798a7e218f12b476bf1dee645f9d
+   Source-Url: https://github.com/xiuwang/pythonwxj/raw/master/wxjpython.tar.gz
+    ##Source-Url: https://github.com/xiuwang/pythonwxj/raw/master/wxjpython.zip
+    #Source-Url: https://github.com/duya/dyphp.git
+    ##Source-Url: https://github.com/duyanyan/nodyphp.git
+    ##Source-Url: git://github.com/duyanyan/dyphp.git
+    ##
